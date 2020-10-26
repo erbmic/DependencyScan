@@ -1,0 +1,29 @@
+<!-- Search form -->
+<!--<div class="container-fluid">
+  <form class="form-row">
+    <input #myInput class="form-control" type="text" placeholder="Search for artefact..." aria-label="Search"
+           (keyup.enter)="doSearch(myInput.value)">
+    <button (click)="doSearch(myInput.value)" class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+  </form>
+</div>-->
+
+
+<div class="input-group">
+  <input #myInput class="form-control" type="text" placeholder="Search for artefact..." aria-label="Search"
+         (keyup.enter)="doSearch(myInput.value)">
+  <div class="input-group-append">
+    <button (click)="doSearch(myInput.value)" class="btn btn-outline-dark" type="button">
+      <i class="fa fa-search"></i>
+    </button>
+  </div>
+</div>
+<!--<div class="container h-100">
+  <div class="d-flex justify-content-center h-100">
+    <div class="searchbar">
+      <input #myInput class="search_input" type="text" name="" placeholder="Search..." (keyup.enter)="doSearch(myInput.value)">
+      <a (click)="doSearch(myInput.value)" href="#" class="search_icon"><i class="fas fa-search"></i></a>
+    </div>
+  </div>
+</div>-->
+
+

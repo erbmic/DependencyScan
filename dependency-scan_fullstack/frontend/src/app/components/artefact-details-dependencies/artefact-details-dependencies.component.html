@@ -1,0 +1,31 @@
+<div class="detail-section">
+  <div class="container-fluid">
+
+    <h3>Dependencies</h3>
+
+    <div *ngIf="artefactVersions.length == 0" class="alert alert-warning col-md-12" role="alert">
+      This Artefact has no dependencies.
+    </div>
+
+    <div *ngIf="artefactVersions.length !== 0">
+      <table class="table">
+        <thead class="thead-dark">
+        <tr>
+          <th>Name</th>
+          <th>Version</th>
+        </tr>
+        </thead>
+
+        <tbody>
+        <tr *ngFor="let tempArtefact of artefactVersions">
+          <td>
+            <a routerLink="/artefacts/{{ tempArtefact.id }}">{{ tempArtefact.uniqueName }}</a>
+          </td>
+          <td>{{ tempArtefact.version }}</td>
+        </tr>
+        </tbody>
+      </table>
+
+    </div>
+  </div>
+</div>

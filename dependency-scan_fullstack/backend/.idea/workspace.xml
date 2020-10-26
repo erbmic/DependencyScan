@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bd11f20-ff71-47cb-9da2-39b7ef4fcece" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Michael\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iEpQ5JVtkhgHQlVXflxjtD9vrE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.dependencyscan.dependencyscan.dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dependencyscan.dependencyscan.service" />
+      <recent name="com.dependencyscan.dependencyscan.dto" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Michael\Work\clean\diplomarbeit20\03_Code\dependency-scan_fullstack\backend\src\main\java\com\dependencyscan\dependencyscan\dto" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DependencyScanApplication">
+    <configuration name="VersionRepositoryIntegrationTest.findVersionByVersionLike" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dependency-scan_backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dependencyscan.dependencyscan.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dependencyscan.dependencyscan.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.dependencyscan.dependencyscan.dao.VersionRepositoryIntegrationTest" />
+      <option name="METHOD_NAME" value="findVersionByVersionLike" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VersionRepositoryIntegrationTest.getAllDepsOfArtefactVersion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dependency-scan_backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dependencyscan.dependencyscan.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dependencyscan.dependencyscan.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.dependencyscan.dependencyscan.dao.VersionRepositoryIntegrationTest" />
+      <option name="METHOD_NAME" value="getAllDepsOfArtefactVersion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VersionRepositoryIntegrationTest.getSpecificVersion2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dependency-scan_backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dependencyscan.dependencyscan.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dependencyscan.dependencyscan.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.dependencyscan.dependencyscan.dao.VersionRepositoryIntegrationTest" />
+      <option name="METHOD_NAME" value="getSpecificVersion2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VersionRepositoryIntegrationTest.getVersionByVersion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dependency-scan_backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dependencyscan.dependencyscan.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dependencyscan.dependencyscan.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.dependencyscan.dependencyscan.dao.VersionRepositoryIntegrationTest" />
+      <option name="METHOD_NAME" value="getVersionByVersion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VersionRepositoryTest.getAllDepsOfArtefactVersion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dependency-scan_backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dependencyscan.dependencyscan.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dependencyscan.dependencyscan.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.dependencyscan.dependencyscan.dao.VersionRepositoryTest" />
+      <option name="METHOD_NAME" value="getAllDepsOfArtefactVersion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DependencyScanApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dependency-scan_backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dependencyscan.dependencyscan.DependencyScanApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VersionRepositoryTest.getAllDepsOfArtefactVersion" />
+        <item itemvalue="JUnit.VersionRepositoryIntegrationTest.getAllDepsOfArtefactVersion" />
+        <item itemvalue="JUnit.VersionRepositoryIntegrationTest.getSpecificVersion2" />
+        <item itemvalue="JUnit.VersionRepositoryIntegrationTest.getVersionByVersion" />
+        <item itemvalue="JUnit.VersionRepositoryIntegrationTest.findVersionByVersionLike" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bd11f20-ff71-47cb-9da2-39b7ef4fcece" name="Default Changelist" comment="" />
+      <created>1601482588485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601482588485</updated>
+      <workItem from="1601482589730" duration="16686000" />
+      <workItem from="1601550127631" duration="5651000" />
+      <workItem from="1601573379232" duration="11054000" />
+      <workItem from="1601620287801" duration="47979000" />
+      <workItem from="1602053969849" duration="14012000" />
+      <workItem from="1602181158915" duration="8941000" />
+      <workItem from="1602225823049" duration="26384000" />
+      <workItem from="1602316838682" duration="9614000" />
+      <workItem from="1602359501885" duration="2000" />
+      <workItem from="1602361801739" duration="130000" />
+      <workItem from="1602361975183" duration="25000" />
+      <workItem from="1602362041021" duration="407000" />
+      <workItem from="1602621633534" duration="3720000" />
+      <workItem from="1603011156766" duration="372000" />
+      <workItem from="1603462070728" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="154" key="#Project_Structure" timestamp="1602361994617">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="440" y="154" key="#Project_Structure/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1602361994617" />
+    <state x="414" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601494146797">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="414" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1601494146797" />
+    <state x="765" y="296" key="#com.intellij.ide.util.MemberChooser" timestamp="1602084506191">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="765" y="296" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1602084506191" />
+    <state x="740" y="335" key="FileChooserDialogImpl" timestamp="1602622739267">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="335" key="FileChooserDialogImpl/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1602622739267" />
+    <state x="2660" y="335" key="FileChooserDialogImpl/1920.0.1920.1160/0.0.1920.1160@1920.0.1920.1160" timestamp="1602362057303" />
+    <state width="1877" height="427" key="GridCell.Tab.0.bottom" timestamp="1603011531597">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.0.bottom/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1603011531597" />
+    <state width="1877" height="369" key="GridCell.Tab.0.bottom/1920.0.1920.1160/0.0.1920.1160@1920.0.1920.1160" timestamp="1602625591416" />
+    <state width="1877" height="427" key="GridCell.Tab.0.center" timestamp="1603011531597">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.0.center/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1603011531597" />
+    <state width="1877" height="369" key="GridCell.Tab.0.center/1920.0.1920.1160/0.0.1920.1160@1920.0.1920.1160" timestamp="1602625591416" />
+    <state width="1877" height="427" key="GridCell.Tab.0.left" timestamp="1603011531597">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.0.left/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1603011531597" />
+    <state width="1877" height="369" key="GridCell.Tab.0.left/1920.0.1920.1160/0.0.1920.1160@1920.0.1920.1160" timestamp="1602625591416" />
+    <state width="1877" height="427" key="GridCell.Tab.0.right" timestamp="1603011531597">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.0.right/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1603011531597" />
+    <state width="1877" height="369" key="GridCell.Tab.0.right/1920.0.1920.1160/0.0.1920.1160@1920.0.1920.1160" timestamp="1602625591416" />
+    <state width="1877" height="427" key="GridCell.Tab.1.bottom" timestamp="1603011531598">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.1.bottom/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1603011531598" />
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom/1920.0.1920.1160/0.0.1920.1160@1920.0.1920.1160" timestamp="1602625591410" />
+    <state width="1877" height="427" key="GridCell.Tab.1.center" timestamp="1603011531597">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.1.center/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1603011531597" />
+    <state width="1877" height="396" key="GridCell.Tab.1.center/1920.0.1920.1160/0.0.1920.1160@1920.0.1920.1160" timestamp="1602625591410" />
+    <state width="1877" height="427" key="GridCell.Tab.1.left" timestamp="1603011531597">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.1.left/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1603011531597" />
+    <state width="1877" height="396" key="GridCell.Tab.1.left/1920.0.1920.1160/0.0.1920.1160@1920.0.1920.1160" timestamp="1602625591410" />
+    <state width="1877" height="427" key="GridCell.Tab.1.right" timestamp="1603011531597">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.1.right/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1603011531597" />
+    <state width="1877" height="396" key="GridCell.Tab.1.right/1920.0.1920.1160/0.0.1920.1160@1920.0.1920.1160" timestamp="1602625591410" />
+    <state width="1877" height="396" key="GridCell.Tab.2.bottom" timestamp="1601580028033">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.2.bottom/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1601580028033" />
+    <state width="1877" height="396" key="GridCell.Tab.2.center" timestamp="1601580028033">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.2.center/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1601580028033" />
+    <state width="1877" height="396" key="GridCell.Tab.2.left" timestamp="1601580028033">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.2.left/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1601580028033" />
+    <state width="1877" height="396" key="GridCell.Tab.2.right" timestamp="1601580028033">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.2.right/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1601580028033" />
+    <state x="461" y="225" key="SettingsEditor" timestamp="1602361816653">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="461" y="225" key="SettingsEditor/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1602361816653" />
+    <state x="1050" y="158" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1602622721397">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1050" y="158" key="com.intellij.testIntegration.createTest.CreateTestDialog/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1602622721397" />
+    <state x="393" y="309" width="1133" height="592" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601489207677">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="393" y="309" width="1133" height="592" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1601489207677" />
+    <state x="667" y="313" width="585" height="534" key="find.popup" timestamp="1601575395002">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="667" y="313" width="585" height="534" key="find.popup/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1601575395002" />
+    <state x="736" y="328" key="refactoring.ChangeSignatureDialog" timestamp="1601486431569">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="736" y="328" key="refactoring.ChangeSignatureDialog/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1601486431569" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1601575712379">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1601575712379" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dependencyscan/dependencyscan/dao/ArtefactRepositoryIntegrationTest.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dependencyscan/dependencyscan/dao/VersionRepositoryIntegrationTest.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dependencyscan/dependencyscan/dao/ArtefactRepositoryIntegrationTest.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dependencyscan/dependencyscan/dao/VersionRepositoryIntegrationTest.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dependencyscan/dependencyscan/dao/VersionRepositoryIntegrationTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dependencyscan/dependencyscan/dao/VersionRepositoryIntegrationTest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dependencyscan/dependencyscan/dao/VersionRepositoryIntegrationTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<div class="h1 text-xl-center">
+  <p>ArtefactName</p>
+</div>
+
+<div *ngIf="artefacts.length == 0" class="alert alert-warning col-md-12" role="alert">
+  Please Search for an Artefact first.
+</div>
+
+<div *ngIf="artefacts.length !== 0">
+  <table class="table">
+    <thead class="thead-dark">
+    <tr>
+      <th>Name</th>
+      <th>Version</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    <tr *ngFor="let tempArtefact of artefacts">
+      <td>
+        <a routerLink="/artefacts/{{ tempArtefact.id }}">{{ tempArtefact.uniqueName }}</a>
+      </td>
+      <td>{{ tempArtefact.version }}</td>
+    </tr>
+    </tbody>
+  </table>
+
+</div>
+

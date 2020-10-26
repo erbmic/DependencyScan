@@ -1,0 +1,64 @@
+<div class="detail-section">
+  <div class="container-fluid">
+
+    <h3>Details</h3>
+
+    <table class="table table-bordered">
+      <tbody>
+      <tr>
+        <th scope="row">version</th>
+        <td>{{ artefactVersion.version }}</td>
+
+      </tr>
+      <tr>
+        <th scope="row">description</th>
+        <td>{{ artefactVersion.description }}</td>
+
+      </tr>
+      <tr>
+        <th scope="row">url</th>
+        <td>{{ artefactVersion.url }}</td>
+
+      </tr>
+      <tr>
+        <th scope="row">creation date</th>
+        <td>{{ artefactVersion.creation_date }}</td>
+
+      </tr>
+      </tbody>
+    </table>
+
+
+    <h4>State</h4>
+    <p>Set the State of this artefact</p>
+    <form [formGroup]="stateForm">
+      <select class="browser-default custom-select" formControlName="stateControl" (change)="setState($event.target.value)">
+        <option [value]="book" *ngFor="let book of books">{{book}}</option>
+      </select>
+    </form>
+
+  </div>
+
+
+
+<!--
+  <div class="container-fluid">
+    <div class="btn-group btn-group-toggle" data-toggle="buttons">
+      <label class="btn btn-outline-dark">
+        <input type="radio" name="state" id="option1" > Ready for Testing
+      </label>
+      <label class="btn btn-outline-dark">
+        <input type="radio" name="state" id="option2" checked> Maintained
+      </label>
+      <label class="btn btn-outline-dark">
+        <input type="radio" name="state" id="option3"> Obsolete
+      </label>
+    </div>
+  </div>-->
+
+</div>
+
+
+
+
+
