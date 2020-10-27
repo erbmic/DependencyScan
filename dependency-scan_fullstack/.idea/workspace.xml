@@ -26,9 +26,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d82b7ad3-9fa7-47f4-9dc3-7622d034f7ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../02_Doc/Doc/doc.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_Doc/Doc/doc.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/dependencyscan/dependencyscan/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/dependencyscan/dependencyscan/config/WebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +45,9 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="JupyterTrust" id="0a7640cc-fecd-45ef-b314-373bc8dc0573" />
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -67,17 +70,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../diplomarbeit/03_Code/09_examples/neo4j-ogm-university-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend" />
     <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/frontend/node_modules/protractor" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="ts.external.directory.path" value="C:\Users\Michael\Work\clean\diplomarbeit20\03_Code\dependency-scan_fullstack\frontend\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Michael\Work\DependencyScan\dependency-scan_fullstack\backend" />
+      <recent name="C:\Users\Michael\Work\DependencyScan\dependency-scan_fullstack" />
       <recent name="C:\Users\Michael\Work\diplomarbeit\03_Code\dependency-scan_fullstack\frontend\conf.d" />
       <recent name="C:\Users\Michael\Work\diplomarbeit\03_Code\dependency-scan_fullstack\backend" />
     </key>
@@ -95,6 +100,17 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.DependencyScanApplication (1)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="E2E Tests (dependency-scan)" type="JavaScriptTestRunnerProtractor">
       <config-file value="$PROJECT_DIR$/frontend/e2e/protractor.conf.js" />
       <node-interpreter value="project" />
@@ -245,6 +261,10 @@
       <workItem from="1603439809081" duration="23528000" />
       <workItem from="1603528437518" duration="19484000" />
       <workItem from="1603699317742" duration="1572000" />
+      <workItem from="1603820914296" duration="1164000" />
+      <workItem from="1603822169090" duration="144000" />
+      <workItem from="1603822333372" duration="150000" />
+      <workItem from="1603822516679" duration="3444000" />
     </task>
     <servers />
   </component>
@@ -267,14 +287,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="154" key="#Project_Structure" timestamp="1602433026342">
+    <state x="552" y="221" key="#Plugins" timestamp="1603822472922">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="440" y="154" key="#Project_Structure/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1602433026342" />
-    <state x="734" y="382" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602422541869">
+    <state x="552" y="221" key="#Plugins/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1603822472922" />
+    <state x="440" y="154" key="#Project_Structure" timestamp="1603823804926">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="734" y="382" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1602422541869" />
+    <state x="440" y="154" key="#Project_Structure/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1603823804926" />
+    <state x="734" y="382" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603822444331">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="734" y="382" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1603822444331" />
     <state x="765" y="264" key="#com.intellij.ide.util.MemberChooser" timestamp="1603483246644">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -360,10 +384,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="625" y="284" width="734" height="591" key="NewModule_or_Project.wizard/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1602432891773" />
-    <state x="461" y="225" key="SettingsEditor" timestamp="1602356121902">
+    <state x="461" y="225" key="SettingsEditor" timestamp="1603822420836">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="461" y="225" key="SettingsEditor/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1602356121902" />
+    <state x="461" y="225" key="SettingsEditor/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1603822420836" />
     <state x="777" y="494" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603323988661">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -384,9 +408,13 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="616" y="270" key="run.anything.popup/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1602619581813" />
-    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1603540604231">
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1603822452509">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1603540604231" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1603822452509" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -11,3 +11,9 @@ Beim ersten Ausführen werden alle noch nicht vorhandenen Docker Images gebildet
 
 Um die Container wieder herunterzufahren ist der folgende Befehl notwendig:
 > docker-compose down
+
+
+#### Automatisches laden von Dummy Daten in die Datenbank
+Das Python Skript kann ausgeführt werden, sobald das Docker-Compose läuft.
+Die Konsole muss auf dem Projektfolder dependency-scan_fullstack geöffnet sein und Python 3 muss installiert sein.
+> python3 ./loadDependencies.py
